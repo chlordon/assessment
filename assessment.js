@@ -62,6 +62,7 @@ const answers = [
     '{userName}\'s strong point is passion.',
     '{userName}\'s strong point is knowledge.',
     '{userName}\'s strong point is ALL OF YOU.'
+    '{userName}\'s strong point is kindness.'
 ];
 
 /**
